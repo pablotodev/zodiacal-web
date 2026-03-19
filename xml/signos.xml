@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <inicio>03-21</inicio>
+        <fim>04-20</fim>
+        <descricao>Áries (português brasileiro) ou Carneiro (português europeu) (♈) é o primeiro signo do zodíaco, situado entre Peixes e Touro, e associado à constelação de Aries. Seu símbolo é um carneiro. Forma, junto com Leão e Sagitário, a triplicidade dos signos de Fogo. É também um dos quatro signos cardinais, ao lado de Câncer, Libra e Capricórnio. Os nativos de Áries nascem, em geral, entre 21 de março e 20 de abril, com pequenas variações anuais. 
+
+A constelação, quando observada com estrelas de menor brilho, lembra a cabeça de um carneiro, com traços que evocam um herbívoro e um chifre em espiral. Na mitologia grega, ela representa o carneiro alado com pelo de ouro que salvou Frixo e Hele, filhos de Atamante, da perseguição da madrasta Ino. Durante a fuga, Hele caiu no mar (que desde então é chamado Helesponto, atual Dardanelos), mas Frixo chegou à Cólquida. Lá, sacrificou o animal a Zeus, e seu velo de ouro foi guardado e mais tarde buscado pelos Argonautas, liderados por Jasão. 
+
+Segundo Higino, o carneiro foi enviado pela mãe dos jovens, a nuvem Nefele, para resgatá-los. O mito está ligado ao ciclo agrícola: o sacrifício do animal simboliza o momento de semear o grão, marcando o início da primavera no hemisfério norte. Outras versões, como a de Eratóstenes, sugerem que o próprio carneiro teria entregado seu pelo dourado a Frixo antes de ascender aos céus.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Touro</nome>
+        <inicio>04-21</inicio>
+        <fim>05-20</fim>
+        <descricao>Touro (♉) é o segundo signo do zodíaco, situado entre Áries e Gêmeos, e associado à constelação de Taurus. Seu símbolo é um touro, representando força, fertilidade e estabilidade. Pertence ao elemento Terra e é um dos quatro signos fixos, junto com Leão, Escorpião e Aquário. Os taurinos nascem, em geral, entre 21 de abril e 20 de maio. 
+
+Na mitologia grega, Touro está ligado ao mito de Zeus, que se transformou em um belo touro branco para seduzir Europa, uma princesa fenícia. Encantada pela mansidão do animal, Europa montou em suas costas, e Zeus a levou através do mar até a ilha de Creta. Lá, revelou sua verdadeira forma e fez dela sua amante. Em homenagem ao evento, Zeus imortalizou o touro como a constelação de Touro. A constelação é facilmente identificável no céu pelo agrupamento de estrelas em forma de “V” (as Hyades), com Aldebaran brilhando como seu olho vermelho. 
+
+Touro também está associado a outras lendas, como a do Rei Minos de Creta e o Minotauro, monstro com cabeça de touro aprisionado no labirinto. Em culturas antigas, o touro simbolizava o Sol, a fertilidade e o poder real, sendo reverenciado em tradições egípcia (Osíris), indiana (Shiva) e persa (Mitra). 
+
+Astrologicamente, Touro é regido por Vênus, o planeta do amor, da beleza e das finanças, o que confere aos nativos deste signo uma natureza sensual, prática e voltada para o conforto material.  São conhecidos por lealdade, paciência, determinação e apego à estabilidade, mas também podem ser teimosos e resistentes a mudanças. </descricao>
+    </signo>
+
+    <signo>
+        <nome>Gêmeos</nome>
+        <inicio>05-21</inicio>
+        <fim>06-20</fim>
+        <descricao>Gêmeos (♊), também conhecido como Gémeos (português europeu) ou Gemini, é o terceiro signo do zodíaco, situado entre Touro e Câncer, e associado à constelação de Gêmeos. Seu símbolo representa os irmãos gêmeos, simbolizando a dualidade, a comunicação e a conexão.  Pertence ao elemento Ar e é um dos quatro signos mutáveis, junto com Virgem, Sagitário e Peixes.  Os nativos de Gêmeos nascem, em geral, entre 21 de maio e 21 de junho. 
+
+Na mitologia grega, o signo está ligado aos Dioscuros, Castor e Pólux, filhos da rainha Leda.  Castor era filho mortal do rei Tíndaro, enquanto Pólux era filho imortal de Zeus. Inseparáveis, enfrentaram aventuras juntos, incluindo a expedição dos Argonautas. Após a morte de Castor, Pólux, devastado, pediu a Zeus que compartilhasse sua imortalidade. Comovido com o amor fraternal, Zeus os colocou no céu como a constelação de Gêmeos, onde alternam entre o Olimpo e o submundo — mas sempre juntos. Essa história reflete a essência geminiana: dualidade, lealdade e busca por conexão. 
+
+A constelação é marcada por duas estrelas brilhantes: Pólux (a mais luminosa) e Castor, que representam as cabeças dos irmãos.  Gêmeos é atravessado pela Via Láctea e é mais visível no inverno no hemisfério norte. 
+
+Astrologicamente, Gêmeos é regido por Mercúrio, o planeta da comunicação, da inteligência e do raciocínio.  Isso confere aos nativos deste signo uma mente ágil, curiosidade insaciável, facilidade com palavras e grande adaptabilidade. São comunicativos, versáteis, dinâmicos e adoram aprender sobre tudo. No entanto, podem ser vistos como inconstantes, superficiais ou indecisos, devido à sua natureza mutável e necessidade constante de novidade.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Câncer</nome>
+        <inicio>06-21</inicio>
+        <fim>07-22</fim>
+        <descricao>Câncer (♋), conhecido como Caranguejo em português europeu, é o quarto signo do zodíaco, situado entre Gêmeos e Leão, e associado à constelação de Câncer. Seu símbolo representa as garras de um caranguejo, simbolizando proteção, sensibilidade e instinto de defesa. Pertence ao elemento Água e é um dos quatro signos cardinais, junto com Áries, Libra e Capricórnio.  Os cancerianos nascem, em geral, entre 22 de junho e 22 de julho.
+
+Na mitologia grega, Câncer está ligado ao mito dos Doze Trabalhos de Héracles.  Durante a luta contra a Hidra de Lerna — uma serpente de múltiplas cabeças que se regeneravam ao serem cortadas — a deusa Hera, inimiga de Héracles, enviou um caranguejo gigante (Carcinus) para distraí-lo.  O caranguejo mordeu o pé do herói, mas foi esmagado por ele. Impressionada com sua lealdade e coragem, Hera imortalizou o animal colocando-o entre as estrelas como a constelação de Câncer. 
+
+Outra lenda associada ao signo envolve Tétis, a deusa do mar, que tentou tornar seu filho Aquiles imortal banhando-o no rio Estige.  Ao segurá-lo pelo calcanhar, essa parte ficou vulnerável — o famoso “calcanhar de Aquiles”. Essa história reflete o caráter protetor, materno e emocional típico dos cancerianos. 
+
+Astrologicamente, Câncer é regido pela Lua, que simboliza emoções, intuição e ciclos internos.  Os nativos deste signo são conhecidos por sua sensibilidade, lealdade, apego à família e necessidade de segurança emocional.  São acolhedores, receptivos e fortemente ligados ao lar, mas também podem ser reservados, ciumentos ou influenciados pelo humor do momento.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Leão</nome>
+        <inicio>07-23</inicio>
+        <fim>08-22</fim>
+        <descricao>Leão (♌), ou Leo, é o quinto signo do zodíaco, situado entre Câncer e Virgem, e associado à constelação de Leão. Seu símbolo é um leão, representando força, coragem e liderança. Pertence ao elemento Fogo e é um dos quatro signos fixos, junto com Touro, Escorpião e Aquário.  Os nativos de Leão nascem, em geral, entre 22 de julho e 22 de agosto. 
+
+Na mitologia grega, o signo está ligado ao Leão de Nemeia, uma criatura invencível com pele impenetrável, criada pela deusa Hera para aterrorizar a região de Nemeia.  Foi o primeiro dos Doze Trabalhos de Héracles (Hércules) matar essa fera.  Após descobrir que nenhuma arma podia feri-lo, Héracles enfrentou o leão desarmado, estrangulando-o com as próprias mãos. Depois da vitória, usou sua pele como armadura invencível, tornando-se ainda mais poderoso. Impressionado com o feito, Zeus imortalizou o animal colocando-o entre as estrelas como a constelação de Leão. 
+
+Astrologicamente, Leão é regido pelo Sol, símbolo do ego, da vitalidade e da criatividade.  Os leoninos são conhecidos por sua autoconfiança, generosidade, carisma e espírito de liderança.  Atraem atenção naturalmente, adoram ser admirados e têm um forte senso de identidade. No entanto, podem tender ao egocentrismo, orgulho e necessidade excessiva de reconhecimento quando desequilibrados. 
+
+A constelação é marcada pela estrela Regulus (o "coração do leão"), uma das mais brilhantes no céu, e sua forma lembra uma foice, representando a juba do animal.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Virgem</nome>
+        <inicio>08-23</inicio>
+        <fim>09-22</fim>
+        <descricao>Virgem (♍), ou Virgo, é o sexto signo do zodíaco, situado entre Leão e Libra, e associado à constelação de Virgem. Seu símbolo é uma virgem, representando pureza, sabedoria e serviço.  Pertence ao elemento Terra e é um dos quatro signos mutáveis, junto com Gêmeos, Sagitário e Peixes. Os nativos de Virgem nascem, em geral, entre 23 de agosto e 22 de setembro. 
+
+Na mitologia grega, Virgem está ligado a duas figuras principais: Astreia e Deméter.  Astreia, filha de Zeus e Têmis, era a deusa da justiça e da inocência. Durante a Idade de Ouro, vivia em harmonia com os humanos, mas, com a corrupção da humanidade, foi a última divindade a abandonar a Terra, subindo ao céu e tornando-se a constelação de Virgem. Na representação celeste, segura uma espiga de trigo — simbolizada pela estrela Spica, a mais brilhante da constelação — e, ao lado, a constelação de Libra representa sua balança da justiça. 
+
+Outra versão associa Virgem a Deméter, deusa das colheitas, e sua filha Perséfone, uma jovem virgem raptada por Hades.  O luto de Deméter pela ausência da filha explicaria o inverno, enquanto seu retorno traria a primavera e a fertilidade da terra. Essa lenda reforça a ligação do signo com a natureza, o ciclo agrícola e a transformação. 
+
+Astrologicamente, Virgem é regido por Mercúrio, o que confere aos nativos deste signo uma mente analítica, atenção aos detalhes, organização e senso prático.  São conhecidos por sua disciplina, perfeccionismo, humildade e desejo de servir.  Valorizam a ordem, a rotina e a eficiência, mas podem tender ao excesso de crítica, ansiedade e dificuldade em delegar</descricao>
+    </signo>
+
+    <signo>
+        <nome>Libra</nome>
+        <inicio>09-23</inicio>
+        <fim>10-22</fim>
+        <descricao>Libra (♎), também conhecido como Balança, é o sétimo signo do zodíaco, situado entre Virgem e Escorpião, e associado à constelação de Libra. Seu símbolo é a balança, o único objeto inanimado entre os signos, representando justiça, equilíbrio e harmonia.  Pertence ao elemento Ar e é um dos quatro signos cardinais, junto com Áries, Câncer e Capricórnio.  Os librianos nascem, em geral, entre 23 de setembro e 22 de outubro. 
+
+Na mitologia grega, Libra está ligado à deusa Astreia, personificação da justiça e da inocência, filha de Zeus e Têmis.  Desiludida com a corrupção da humanidade, Astreia foi a última divindade a abandonar a Terra, ascendendo ao céu e tornando-se a constelação de Virgem. A balança que carregava foi imortalizada ao seu lado como a constelação de Libra. Também é associado à deusa Têmis, que pesava os atos humanos com imparcialidade.  A constelação surge no céu durante o equinócio de outono (no hemisfério norte), quando dia e noite têm duração igual, simbolizando o equilíbrio cósmico. 
+
+Astrologicamente, Libra é regido por Vênus, o planeta do amor, da beleza e da diplomacia.  Os nativos deste signo são conhecidos por sua sociabilidade, elegância, senso de justiça e busca por harmonia nos relacionamentos.  São diplomáticos, cooperativos e valorizam a arte e a estética. No entanto, podem tender à indecisão, evitação de conflitos e idealização excessiva.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Escorpião</nome>
+        <inicio>10-23</inicio>
+        <fim>11-21</fim>
+        <descricao>Escorpião (♏) é o oitavo signo do zodíaco, situado entre Libra e Sagitário, e associado à constelação de Escorpião. Seu símbolo é um escorpião, representando força, instinto de sobrevivência e transformação.  Pertence ao elemento Água e é um dos quatro signos fixos, junto com Touro, Leão e Aquário.  Os escorpianos nascem, em geral, entre 23 de outubro e 21 de novembro. 
+
+Na mitologia grega, o signo está ligado ao mito do caçador Órion, que, por sua arrogância em afirmar que poderia matar todas as criaturas da Terra, provocou a ira da deusa Gaia (a Terra).  Ela enviou um escorpião gigante para enfrentá-lo, que o matou com uma ferroada no calcanhar. Em homenagem ao evento, Zeus colocou ambos no céu como constelações opostas: quando Escorpião surge no horizonte, Órion se põe, simbolizando uma perseguição eterna. 
+
+Astrologicamente, Escorpião é regido por Plutão (regente moderno) e Marte (regente tradicional), o que intensifica sua natureza transformadora, poderosa e misteriosa.  É o signo da profundidade emocional, da regeneração e do inconsciente.  Os nativos são conhecidos por sua intuição aguçada, lealdade, determinação e intensidade, especialmente nos relacionamentos.  Também têm forte ligação com a sexualidade, o poder e o controle. 
+
+O símbolo do escorpião, com seu ferrão, lembra uma flecha, simbolizando a capacidade de penetrar nos segredos humanos e nas camadas mais profundas da alma.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Sagitário</nome>
+        <inicio>11-22</inicio>
+        <fim>12-21</fim>
+        <descricao>Sagitário (♐) é o nono signo do zodíaco, situado entre Escorpião e Capricórnio, e associado à constelação de Sagitário. Seu símbolo é um centauro com arco e flecha, representando a busca pelo conhecimento, liberdade e verdade.  Pertence ao elemento Fogo e é um dos quatro signos mutáveis, junto com Gêmeos, Virgem e Peixes.  Os sagitarianos nascem, em geral, entre 22 de novembro e 21 de dezembro. 
+
+Na mitologia grega, o signo está principalmente ligado a Quíron, o centauro sábio, justo e educado, diferente dos demais de sua espécie.  Mestre de heróis como Aquiles, Asclépio e Héracles, Quíron era imortal, mas foi ferido por uma flecha envenenada acidentalmente lançada por Héracles. A dor era insuportável e, por ser imortal, não podia morrer. Comovido, Zeus permitiu que ele renunciasse à imortalidade e o colocou entre as estrelas como a constelação de Sagitário. Esse mito simboliza a transformação do instinto em sabedoria, refletindo a natureza dual do signo: o corpo de cavalo (instinto) e o torso humano (razão). 
+
+Astrologicamente, Sagitário é regido por Júpiter, o planeta da expansão, da sorte, da filosofia e da justiça.  Os nativos deste signo são conhecidos por seu otimismo, espírito aventureiro, sede de conhecimento e senso de humor.  São idealistas, generosos e valorizam a liberdade acima de tudo. Adoram viajar, aprender e compartilhar ideias, especialmente sobre cultura, religião e ciência. No entanto, podem ser impulsivos, excessivamente francos ou impacientes com rotinas. 
+
+A constelação de Sagitário está localizada no centro da Via Láctea e é visível no céu do hemisfério sul, lembrando um bule de chá ou um arqueiro prestes a disparar sua flecha.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Capricórnio</nome>
+        <inicio>12-22</inicio>
+        <fim>01-19</fim>
+        <descricao>Capricórnio (♑) é o décimo signo do zodíaco, situado entre Sagitário e Aquário, e associado à constelação de Capricórnio. Seu símbolo é uma cabra com cauda de peixe, representando a ascensão terrena e a sabedoria espiritual.  Pertence ao elemento Terra e é um dos quatro signos cardinais, junto com Áries, Câncer e Libra.  Os capricornianos nascem, em geral, entre 22 de dezembro e 20 de janeiro. 
+
+Na mitologia grega, o signo está ligado a duas figuras principais. Uma delas é Pan, o deus dos pastores e da natureza, que, ao fugir do monstro Tifão, pulou em um rio e transformou a metade inferior de seu corpo em um peixe, enquanto a superior permaneceu como de uma cabra.  Zeus, admirado por sua criatividade, imortalizou essa forma como a constelação de Capricórnio. Outra versão associa o signo à cabra Amalteia, que amamentou Zeus ainda criança.  Ao quebrar acidentalmente um de seus chifres, Zeus transformou-o na cornucópia, símbolo de abundância, e colocou a cabra entre as estrelas. 
+
+Astrologicamente, Capricórnio é regido por Saturno, planeta da disciplina, responsabilidade e estrutura.  Os nativos são conhecidos por sua seriedade, ambição, perseverança e senso de dever.  São práticos, organizados e focados em metas de longo prazo. Valorizam tradição, hierarquia e conquistas concretas. No entanto, podem tender ao perfeccionismo, rigidez emocional e excesso de autocrítica. 
+
+A constelação é uma das mais antigas, conhecida pelos babilônios como “peixe-cabra”. É discreta no céu, com estrelas pouco brilhantes, destacando-se Delta Capricorni (Deneb Algedi), cujo nome significa “rabo da cabra”. .</descricao>
+    </signo>
+
+    <signo>
+        <nome>Aquário</nome>
+        <inicio>01-20</inicio>
+        <fim>02-18</fim>
+        <descricao>Aquário (♒) é o décimo primeiro signo do zodíaco, situado entre Capricórnio e Peixes, e associado à constelação de Aquário. Seu símbolo é o aguadeiro, um homem derramando água de uma jarra, representando a disseminação do conhecimento, da sabedoria e do progresso humano.  Forma, com Gêmeos e Libra, a triplicidade dos signos do Ar e é um dos quatro signos fixos, junto com Touro, Leão e Escorpião.  Os aquarianos nascem, em geral, entre 21 de janeiro e 19 de fevereiro. 
+
+Na mitologia grega, o signo está ligado principalmente a Ganimedes, um belo jovem mortal raptado por Zeus, transformado em águia, para servir como copeiro dos deuses no Olimpo.  Em homenagem a ele, Zeus o transformou na constelação de Aquário. A água derramada simboliza o néctar da imortalidade e o fluxo de ideias inovadoras. Outra versão associa o signo a Prometeu, o titã que roubou o fogo dos deuses para dar aos humanos, simbolizando rebeldia, humanismo e busca pelo conhecimento — valores centrais para os aquarianos. 
+
+Astrologicamente, Aquário é regido por Urano, planeta da inovação, liberdade e mudança.  Os nativos são conhecidos por sua originalidade, independência, idealismo e visão futurista. São intelectuais, humanitários e defensores da justiça social, mas podem ser emocionalmente reservados, teimosos ou distantes.  Valorizam a liberdade acima de tudo e rejeitam convenções que não fazem sentido para eles.</descricao>
+    </signo>
+
+    <signo>
+        <nome>Peixes</nome>
+        <inicio>02-19</inicio>
+        <fim>03-20</fim>
+        <descricao>Peixes (♓) é o décimo segundo e último signo do zodíaco, situado entre Aquário e Áries, e associado à constelação de Peixes. Seu símbolo representa dois peixes ligados por uma fita, nadando em direções opostas, simbolizando a dualidade entre o mundo material e o espiritual.  Pertence ao elemento Água e é um dos quatro signos mutáveis, junto com Gêmeos, Virgem e Sagitário. Os piscianos nascem, em geral, entre 19 de fevereiro e 20 de março. 
+
+Na mitologia grega, o signo está ligado à história de Afrodite (Vênus) e seu filho Eros (Cupido), que se transformaram em peixes para escapar do terrível monstro Tífon.  Ao se lançarem no rio Eufrates, foram salvos por dois golfinhos unidos por uma corrente de ouro, que mais tarde foram imortalizados como a constelação de Peixes. Outra versão conta que Pã, ao tentar escapar, transformou-se parcialmente em peixe, enquanto Afrodite e Eros nadaram em segurança, sendo homenageados por Zeus com um lugar entre as estrelas. 
+
+Astrologicamente, Peixes é regido por Netuno, planeta da ilusão, da espiritualidade e da arte, e tradicionalmente por Júpiter.  Os nativos são conhecidos por sua sensibilidade, intuição, empatia e natureza sonhadora.  São compreensivos, criativos e compassivos, mas podem tender à evasão, indecisão e dificuldade em lidar com a realidade. Muitos encontram refúgio na arte, na meditação ou em causas humanitárias.</descricao>
+    </signo>
+</signos>
