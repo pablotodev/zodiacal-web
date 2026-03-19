@@ -21,11 +21,21 @@ form.addEventListener("submit", async function (event) {
     const dataFormatada = `${mes}-${dia}`;
 
     try {
-        const resposta = await fetch("data/signos.xml");
+        const resposta = await fetch("xml/signos.xml");
+
+        if (!resposta.ok) {
+            throw new Error(`Nao foi possivel carregar o XML: ${resposta.status}`);
+        }
+
         const textoXML = await resposta.text();
 
         const parser = new DOMParser();
         const xml = parser.parseFromString(textoXML, "application/xml");
+        const erroXML = xml.querySelector("parsererror");
+
+        if (erroXML) {
+            throw new Error("O arquivo XML esta malformado.");
+        }
 
         const signos = xml.getElementsByTagName("signo");
 
