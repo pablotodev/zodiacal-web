@@ -41,8 +41,8 @@ projeto-signos/
 3. Clicar com o botão direito no `index.html`  
 4. Selecionar **Open with Live Server**
 
-Observação
-O projeto utiliza leitura de arquivo XML via JavaScript (`fetch`), por isso é necessário executar em um servidor local para evitar bloqueios do navegador.
+Observação:
+ o projeto utiliza leitura de arquivo XML via JavaScript (`fetch`), por isso é necessário executar em um servidor local para evitar bloqueios do navegador.
 Autor
 Pablo Takahashi  
 Estudante de Engenharia de Software
