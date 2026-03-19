@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte dos estudos em Engenharia de Software, 
 
 
 ## Estrutura do projeto
-projeto-signos/
+zodiacal-web/
 │
 ├── index.html # Estrutura da aplicação
 ├── css/
@@ -43,7 +43,7 @@ projeto-signos/
 
 Observação:
  o projeto utiliza leitura de arquivo XML via JavaScript (`fetch`), por isso é necessário executar em um servidor local para evitar bloqueios do navegador.
-Autor
+## Autor
 Pablo Takahashi  
 Estudante de Engenharia de Software
 
